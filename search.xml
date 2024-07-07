@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>All Surveys and Description</title>
+      <link href="/2024/07/07/AllSurveysandDescription/"/>
+      <url>/2024/07/07/AllSurveysandDescription/</url>
+      
+        <content type="html"><![CDATA[<p>In every study, there are common variables such as ID, study time, etc. We extract these to form a list of common variables.</p><span id="more"></span><h3 id="Common-Variables"><a href="#Common-Variables" class="headerlink" title="Common Variables"></a>Common Variables</h3><table><thead><tr><th>Variable Name</th><th><strong>Data type</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td>timepoint</td><td>int&#x2F;numer</td><td></td></tr><tr><td>SCDI</td><td>int&#x2F;numer</td><td></td></tr><tr><td>TP</td><td>int&#x2F;numer</td><td></td></tr><tr><td>STUDY</td><td>string&#x2F;word</td><td></td></tr><tr><td>CRID</td><td>int&#x2F;numer</td><td></td></tr><tr><td>SCID</td><td>int&#x2F;numer</td><td></td></tr><tr><td>DATA</td><td>data&#x2F;time</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Surveys and Description </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Common Variables</title>
+      <link href="/2024/07/07/common_variable/"/>
+      <url>/2024/07/07/common_variable/</url>
+      
+        <content type="html"><![CDATA[<p>In every study, there are common variables such as ID, study time, etc. We extract these to form a list of common variables.</p><span id="more"></span><h3 id="Common-Variables"><a href="#Common-Variables" class="headerlink" title="Common Variables"></a>Common Variables</h3><table><thead><tr><th>Variable Name</th><th><strong>Data type</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td>timepoint</td><td>int&#x2F;numer</td><td></td></tr><tr><td>SCDI</td><td>int&#x2F;numer</td><td></td></tr><tr><td>TP</td><td>int&#x2F;numer</td><td></td></tr><tr><td>STUDY</td><td>string&#x2F;word</td><td></td></tr><tr><td>CRID</td><td>int&#x2F;numer</td><td></td></tr><tr><td>SCID</td><td>int&#x2F;numer</td><td></td></tr><tr><td>DATA</td><td>data&#x2F;time</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Common Variables </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Research Introduction(Background)</title>
       <link href="/2024/07/07/welcomepage/"/>
       <url>/2024/07/07/welcomepage/</url>
