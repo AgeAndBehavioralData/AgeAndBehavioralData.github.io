@@ -4,11 +4,486 @@
   
     
     <entry>
+      <title>Survey_Social Support</title>
+      <link href="/2024/07/16/Social%20Support/"/>
+      <url>/2024/07/16/Social%20Support/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Social Support</p><span id="more"></span><h3 id="Variable-in-Social-Support"><a href="#Variable-in-Social-Support" class="headerlink" title="Variable in Social Support"></a>Variable in Social Support</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Social Support </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_SLEEP QUESTIONNAIRE</title>
+      <link href="/2024/07/16/SLEEP%20QUESTIONNAIRE/"/>
+      <url>/2024/07/16/SLEEP%20QUESTIONNAIRE/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_SLEEP QUESTIONNAIRE</p><span id="more"></span><h3 id="Variable-in-SLEEP-QUESTIONNAIRE"><a href="#Variable-in-SLEEP-QUESTIONNAIRE" class="headerlink" title="Variable in SLEEP QUESTIONNAIRE"></a>Variable in SLEEP QUESTIONNAIRE</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Risk Appraisal </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_Risk Appraisal</title>
+      <link href="/2024/07/16/Risk%20Appraisal/"/>
+      <url>/2024/07/16/Risk%20Appraisal/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Risk Appraisal</p><span id="more"></span><h3 id="Variable-in-Risk-Appraisal"><a href="#Variable-in-Risk-Appraisal" class="headerlink" title="Variable in Risk Appraisal"></a>Variable in Risk Appraisal</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Risk Appraisal </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_REVISED MEMORY AND BEHAVIOR PROBLEMS CHECKLIST</title>
+      <link href="/2024/07/16/REVISED%20MEMORY%20AND%20BEHAVIOR%20PROBLEMS%20CHECKLIST/"/>
+      <url>/2024/07/16/REVISED%20MEMORY%20AND%20BEHAVIOR%20PROBLEMS%20CHECKLIST/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_REVISED MEMORY AND BEHAVIOR PROBLEMS CHECKLIST</p><span id="more"></span><h3 id="Variable-in-REVISED-MEMORY-AND-BEHAVIOR-PROBLEMS-CHECKLIST"><a href="#Variable-in-REVISED-MEMORY-AND-BEHAVIOR-PROBLEMS-CHECKLIST" class="headerlink" title="Variable in REVISED MEMORY AND BEHAVIOR PROBLEMS CHECKLIST"></a>Variable in REVISED MEMORY AND BEHAVIOR PROBLEMS CHECKLIST</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>MBDI</td><td>MEM13</td><td>MEM25</td></tr><tr><td>MEM01</td><td>MEM13A</td><td>MEM25A</td></tr><tr><td>MEM01A</td><td>MEM13B</td><td>MEM25B</td></tr><tr><td>MEM01B</td><td>MEM14</td><td>MEM26</td></tr><tr><td>MEM02</td><td>MEM14A</td><td>MEM26A</td></tr><tr><td>MEM02A</td><td>MEM14B</td><td>MEM26B</td></tr><tr><td>MEM02B</td><td>MEM15</td><td>MEM27</td></tr><tr><td>MEM03</td><td>MEM15A</td><td>MEM27A</td></tr><tr><td>MEM03A</td><td>MEM15B</td><td>MEM27B</td></tr><tr><td>MEM03B</td><td>MEM16</td><td>MEM28</td></tr><tr><td>MEM04</td><td>MEM16A</td><td>MEM28A</td></tr><tr><td>MEM04A</td><td>MEM16B</td><td>MEM28B</td></tr><tr><td>MEM04B</td><td>MEM17</td><td>MEM29</td></tr><tr><td>MEM05</td><td>MEM17A</td><td>MEM29A</td></tr><tr><td>MEM05A</td><td>MEM17B</td><td>MEM29B</td></tr><tr><td>MEM05B</td><td>MEM18</td><td>MEM29C</td></tr><tr><td>MEM06</td><td>MEM18A</td><td>MEM29D</td></tr><tr><td>MEM06A</td><td>MEM18B</td><td>MEM30</td></tr><tr><td>MEM06B</td><td>MEM19</td><td>MEM30A</td></tr><tr><td>MEM07</td><td>MEM19A</td><td>MEM30B</td></tr><tr><td>MEM07A</td><td>MEM19B</td><td>MEM30C</td></tr><tr><td>MEM07B</td><td>MEM20</td><td>MEM30D</td></tr><tr><td>MEM08</td><td>MEM20A</td><td>MEM31</td></tr><tr><td>MEM08A</td><td>MEM20B</td><td>MEM31A</td></tr><tr><td>MEM08B</td><td>MEM21</td><td>MEM31B</td></tr><tr><td>MEM09</td><td>MEM21A</td><td>MEM31C</td></tr><tr><td>MEM09A</td><td>MEM21B</td><td>MEM31D</td></tr><tr><td>MEM09B</td><td>MEM22</td><td>MEM32</td></tr><tr><td>MEM10</td><td>MEM22A</td><td>MEM32A</td></tr><tr><td>MEM10A</td><td>MEM22B</td><td>MEM33</td></tr><tr><td>MEM10B</td><td>MEM23</td><td>MEM33A</td></tr><tr><td>MEM11</td><td>MEM23A</td><td>problem_behaviorsmem</td></tr><tr><td>MEM11A</td><td>MEM23B</td><td>problem_beheaviorsdepression</td></tr><tr><td>MEM11B</td><td>MEM24</td><td>problem_beheaviorsdisruption</td></tr><tr><td>MEM12</td><td>MEM24A</td><td>respite</td></tr><tr><td>MEM12A</td><td>MEM24B</td><td>respitec</td></tr><tr><td>MEM12B</td><td>MEM25</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> REVISED MEMORY AND BEHAVIOR PROBLEMS CHECKLIST </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_RESTORATIVE ACTIVITIES</title>
+      <link href="/2024/07/16/RESTORATIVE%20ACTIVITIES/"/>
+      <url>/2024/07/16/RESTORATIVE%20ACTIVITIES/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_RESTORATIVE ACTIVITIES</p><span id="more"></span><h3 id="Variable-in-RESTORATIVE-ACTIVITIES"><a href="#Variable-in-RESTORATIVE-ACTIVITIES" class="headerlink" title="Variable in RESTORATIVE ACTIVITIES"></a>Variable in RESTORATIVE ACTIVITIES</h3><table><thead><tr><th>Column 1</th><th>Column 2</th></tr></thead><tbody><tr><td>SACT01</td><td>SACT05</td></tr><tr><td>SACT01A</td><td>SACT05A</td></tr><tr><td>SACT02</td><td>SACT06</td></tr><tr><td>SACT02A</td><td>SACT06A</td></tr><tr><td>SACT03</td><td>SACT07</td></tr><tr><td>SACT03A</td><td>SACT07A</td></tr><tr><td>SACT04</td><td>SACT08</td></tr><tr><td>SACT04A</td><td>SACT09</td></tr><tr><td>SACT05</td><td>SACT10</td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> RESTORATIVE ACTIVITIES </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_Religiosity</title>
+      <link href="/2024/07/16/Religiosity/"/>
+      <url>/2024/07/16/Religiosity/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Religiosity</p><span id="more"></span><h3 id="Variable-in-Religiosity"><a href="#Variable-in-Religiosity" class="headerlink" title="Variable in Religiosity"></a>Variable in Religiosity</h3><table><thead><tr><th>Column 1</th><th>Column 2</th></tr></thead><tbody><tr><td>COP01</td><td>COP06</td></tr><tr><td>COP02</td><td>COP08</td></tr><tr><td>COP03</td><td>COP09</td></tr><tr><td>COP04</td><td>RGDI</td></tr><tr><td>COP05</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Burden Interview </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_Quality of life</title>
+      <link href="/2024/07/16/Quality%20of%20life/"/>
+      <url>/2024/07/16/Quality%20of%20life/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Quality of life</p><span id="more"></span><h3 id="Variable-in-Quality-of-life"><a href="#Variable-in-Quality-of-life" class="headerlink" title="Variable in Quality of life"></a>Variable in Quality of life</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>crQLIFE01</td><td>crQLIFE10</td><td>QLIFE04</td></tr><tr><td>crQLIFE02</td><td>crQLIFE11</td><td>QLIFE05</td></tr><tr><td>crQLIFE03</td><td>crQLIFE12</td><td>QLIFE06</td></tr><tr><td>crQLIFE04</td><td>crQLIFE13</td><td>QLIFE07</td></tr><tr><td>crQLIFE05</td><td>crQLIFE14</td><td>QLIFE08</td></tr><tr><td>crQLIFE06</td><td>qlife</td><td>QLIFE09</td></tr><tr><td>crQLIFE07</td><td>QLIFE01</td><td>QLIFE10</td></tr><tr><td>crQLIFE08</td><td>QLIFE02</td><td>QLIFE11</td></tr><tr><td>crQLIFE09</td><td>QLIFE03</td><td>QLIFE12</td></tr><tr><td>crQLIFE10</td><td>QLIFE04</td><td>QLIFE13</td></tr><tr><td>crQLIFE11</td><td>QLIFE05</td><td></td></tr><tr><td>crQLIFE12</td><td>QLIFE06</td><td></td></tr><tr><td>crQLIFE13</td><td>QLIFE07</td><td></td></tr><tr><td>crQLIFE14</td><td>QLIFE08</td><td></td></tr><tr><td>qlife</td><td>QLIFE09</td><td></td></tr><tr><td>QLIFE01</td><td>QLIFE10</td><td></td></tr><tr><td>QLIFE02</td><td>QLIFE11</td><td></td></tr><tr><td>QLIFE03</td><td>QLIFE12</td><td></td></tr><tr><td>QLIFE04</td><td>QLIFE13</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Quality of life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_Psychological symptoms</title>
+      <link href="/2024/07/16/Psychological%20symptoms/"/>
+      <url>/2024/07/16/Psychological%20symptoms/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Psychological symptoms</p><span id="more"></span><h3 id="Variable-in-Psychological-symptoms"><a href="#Variable-in-Psychological-symptoms" class="headerlink" title="Variable in Psychological symptoms"></a>Variable in Psychological symptoms</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>crPSYCH01</td><td>crPSYCH07</td><td>PSY04</td></tr><tr><td>crPSYCH02</td><td>crPSYCH08</td><td>PSY05</td></tr><tr><td>crPSYCH03</td><td>crPSYCH09</td><td>PSY06</td></tr><tr><td>crPSYCH04</td><td>crPSYCH10</td><td>PSY07</td></tr><tr><td>crPSYCH05</td><td>crPSYCH11</td><td>PSY08</td></tr><tr><td>crPSYCH06</td><td>crPSYCH12</td><td>PSY09</td></tr><tr><td>crPSYCH07</td><td>crPSYCH13</td><td>PSY10</td></tr><tr><td>crPSYCH08</td><td>crPSYCH14</td><td>PSY11</td></tr><tr><td>crPSYCH09</td><td>crPSYCH15</td><td>PSY12</td></tr><tr><td>crPSYCH10</td><td>crPSYCH16</td><td>PSY13</td></tr><tr><td>crPSYCH11</td><td>crPSYCH17</td><td>PSY14</td></tr><tr><td>crPSYCH12</td><td>crPSYCH18</td><td>PSY15</td></tr><tr><td>crPSYCH13</td><td>psy_all</td><td>PSY16</td></tr><tr><td>crPSYCH14</td><td>PSY01</td><td>PSY17</td></tr><tr><td>crPSYCH15</td><td>PSY02</td><td>PSY18</td></tr><tr><td>crPSYCH16</td><td>PSY03</td><td>PSYScr</td></tr><tr><td>crPSYCH17</td><td>PSY04</td><td>PSYScrnum</td></tr><tr><td>crPSYCH18</td><td>PSY05</td><td></td></tr><tr><td>psy_all</td><td>PSY06</td><td></td></tr><tr><td>PSY01</td><td>PSY07</td><td></td></tr><tr><td>PSY02</td><td>PSY08</td><td></td></tr><tr><td>PSY03</td><td>PSY09</td><td></td></tr><tr><td>PSY04</td><td>PSY10</td><td></td></tr><tr><td>PSY05</td><td>PSY11</td><td></td></tr><tr><td>PSY06</td><td>PSY12</td><td></td></tr><tr><td>PSY07</td><td>PSY13</td><td></td></tr><tr><td>PSY08</td><td>PSY14</td><td></td></tr><tr><td>PSY09</td><td>PSY15</td><td></td></tr><tr><td>PSY10</td><td>PSY16</td><td></td></tr><tr><td>PSY11</td><td>PSY17</td><td></td></tr><tr><td>PSY12</td><td>PSY18</td><td></td></tr><tr><td>PSY13</td><td>PSYScr</td><td></td></tr><tr><td>PSY14</td><td>PSYScrnum</td><td></td></tr><tr><td>PSY15</td><td></td><td></td></tr><tr><td>PSY16</td><td></td><td></td></tr><tr><td>PSY17</td><td></td><td></td></tr><tr><td>PSY18</td><td></td><td></td></tr><tr><td>PSYScr</td><td></td><td></td></tr><tr><td>PSYScrnum</td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Psychological symptoms </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_General Quality of Life</title>
+      <link href="/2024/07/16/General%20Quality%20of%20Life/"/>
+      <url>/2024/07/16/General%20Quality%20of%20Life/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_General Quality of Life</p><span id="more"></span><h3 id="Variable-in-General-Quality-of-Life"><a href="#Variable-in-General-Quality-of-Life" class="headerlink" title="Variable in General Quality of Life"></a>Variable in General Quality of Life</h3><table><thead><tr><th>Column 1</th></tr></thead><tbody><tr><td>QualityL_1</td></tr><tr><td>QualityL_2</td></tr></tbody></table><p>| BURDEN03   |            |            |            |<br>| BURDEN04   |            |            |            |</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> General Quality of Life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_PREPAREDNESS SCALE</title>
+      <link href="/2024/07/16/PREPAREDNESS%20SCALE/"/>
+      <url>/2024/07/16/PREPAREDNESS%20SCALE/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_PREPAREDNESS SCALE</p><span id="more"></span><h3 id="Variable-in-PREPAREDNESS-SCALE"><a href="#Variable-in-PREPAREDNESS-SCALE" class="headerlink" title="Variable in PREPAREDNESS SCALE"></a>Variable in PREPAREDNESS SCALE</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> PREPAREDNESS SCALE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_POSITIVE ASPECTS OF CAREGIVING</title>
+      <link href="/2024/07/16/POSITIVE%20ASPECTS%20OF%20CAREGIVING/"/>
+      <url>/2024/07/16/POSITIVE%20ASPECTS%20OF%20CAREGIVING/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_POSITIVE ASPECTS OF CAREGIVING</p><span id="more"></span><h3 id="Variable-in-POSITIVE-ASPECTS-OF-CAREGIVING"><a href="#Variable-in-POSITIVE-ASPECTS-OF-CAREGIVING" class="headerlink" title="Variable in POSITIVE ASPECTS OF CAREGIVING"></a>Variable in POSITIVE ASPECTS OF CAREGIVING</h3><table><thead><tr><th>Column 1</th><th>Column 2</th></tr></thead><tbody><tr><td>PACSS</td><td>POS05</td></tr><tr><td>PCDI</td><td>POS06</td></tr><tr><td>PCOT</td><td>POS07</td></tr><tr><td>POS01</td><td>POS08</td></tr><tr><td>POS02</td><td>POS09</td></tr><tr><td>POS03</td><td>POS10</td></tr><tr><td>POS04</td><td>POS11</td></tr><tr><td>poscg</td><td>POSReview</td></tr><tr><td>POSScore</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> POSITIVE ASPECTS OF CAREGIVING </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>caregiver/care recipient sociodemographic information</title>
+      <link href="/2024/07/16/caregivercare%20recipient%20sociodemographic%20information/"/>
+      <url>/2024/07/16/caregivercare%20recipient%20sociodemographic%20information/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_caregiver&#x2F;care recipient sociodemographic information</p><span id="more"></span><h3 id="Variable-in-caregiver-care-recipient-sociodemographic-information"><a href="#Variable-in-caregiver-care-recipient-sociodemographic-information" class="headerlink" title="Variable in caregiver&#x2F;care recipient sociodemographic information"></a>Variable in caregiver&#x2F;care recipient sociodemographic information</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>cb_cond</td><td>cg_age</td><td>cg_high_school</td></tr><tr><td>cb_depression</td><td>cg_age_mean</td><td>cg_HS_college</td></tr><tr><td>cb_disruption</td><td>cg_age2</td><td>cg_inc</td></tr><tr><td>cb_memory</td><td>cg_basic</td><td>cg_lat</td></tr><tr><td>cb_unc</td><td>cg_college</td><td>cg_lats</td></tr><tr><td>cg_age</td><td>cg_college_graduate</td><td>cg_live_months</td></tr><tr><td>cg_age_mean</td><td>cg_coun</td><td>cg_live_years</td></tr><tr><td>cg_age2</td><td>cg_dob</td><td>cg_mari</td></tr><tr><td>cg_basic</td><td>cg_dob_1</td><td>cg_ocoun</td></tr><tr><td>cg_college</td><td>cg_dob_2</td><td>cg_olat</td></tr><tr><td>cg_college_graduate</td><td>cg_dwel</td><td>cg_orace</td></tr><tr><td>cg_coun</td><td>cg_dwels</td><td>cg_peop</td></tr><tr><td>cg_dob</td><td>cg_educ</td><td>cg_race</td></tr><tr><td>cg_dob_1</td><td>cg_educ_year</td><td>cg_races</td></tr><tr><td>cg_dob_2</td><td>cg_emp</td><td>cg_readc</td></tr><tr><td>cg_dwel</td><td>cg_empo</td><td>cg_reads</td></tr><tr><td>cg_dwels</td><td>cg_empot</td><td>cg_readw</td></tr><tr><td>cg_educ</td><td>cg_empot_hr</td><td>cg_red</td></tr><tr><td>cg_educ_year</td><td>cg_empot_min</td><td>cg_redht</td></tr><tr><td>cg_emp</td><td>CG_ESASpro</td><td>cg_redht_hours</td></tr><tr><td>cg_empo</td><td>cg_exp_month</td><td>cg_redht_mins</td></tr><tr><td>cg_empot</td><td>cg_exp_years</td><td>cg_rel_child</td></tr><tr><td>cg_empot_hr</td><td>CG_Gender_first</td><td>cg_rel_friend</td></tr><tr><td>cg_empot_min</td><td>cg_graduate</td><td>cg_rel_grandparent</td></tr><tr><td>CG_ESASpro</td><td>cg_high_school</td><td>cg_rel_parent</td></tr><tr><td>cg_exp_month</td><td>cg_HS_college</td><td>cg_rel_relative</td></tr><tr><td>cg_exp_years</td><td>cg_inc</td><td>cg_rel_spouse</td></tr><tr><td>CG_Gender_first</td><td>cg_lat</td><td>cg_relat</td></tr><tr><td>cg_graduate</td><td>cg_lats</td><td>cg_relationship</td></tr><tr><td>cg_high_school</td><td>cg_live_months</td><td>cg_relats</td></tr><tr><td>cg_HS_college</td><td>cg_live_years</td><td>cg_sclat</td></tr><tr><td>cg_inc</td><td>cg_mari</td><td>cg_sex</td></tr><tr><td>cg_lat</td><td>cg_ocoun</td><td>cg_sex_mean</td></tr><tr><td>cg_lats</td><td>cg_olat</td><td>cg_stopw</td></tr><tr><td>cg_live_months</td><td>cg_orace</td><td>cg_usmonths</td></tr><tr><td>cg_live_years</td><td>cg_peop</td><td>cg_usyears</td></tr><tr><td>cg_mari</td><td>cg_race</td><td>cg_watpo</td></tr><tr><td>cg_ocoun</td><td>cg_races</td><td>cg_wstopw</td></tr><tr><td>cg_olat</td><td>cg_readc</td><td>CGL_TEXT</td></tr><tr><td>cg_orace</td><td>cg_reads</td><td>cr_age</td></tr><tr><td>cg_peop</td><td>cg_readw</td><td>cr_age_mean</td></tr><tr><td>cg_race</td><td>cg_red</td><td>cr_age2</td></tr><tr><td>cg_races</td><td>cg_redht</td><td>cr_anyone</td></tr><tr><td>cg_readc</td><td>cg_redht_hours</td><td>cr_anyonew</td></tr><tr><td>cg_reads</td><td>cg_redht_mins</td><td>cr_anyonews</td></tr><tr><td>cg_readw</td><td>cg_rel_child</td><td>cr_coun</td></tr><tr><td>cg_red</td><td>cg_rel_friend</td><td>cr_dob</td></tr><tr><td>cg_redht</td><td>cg_rel_grandparent</td><td>cr_educ</td></tr><tr><td>cg_redht_hours</td><td>cg_rel_parent</td><td>cr_educ_year</td></tr><tr><td>cg_redht_mins</td><td>cg_rel_relative</td><td>CR_Gender</td></tr><tr><td>cg_rel_child</td><td>cg_rel_spouse</td><td>CR_Gender_first</td></tr><tr><td>cg_rel_friend</td><td>cg_relat</td><td>CR_Gender_mean</td></tr><tr><td>cg_rel_grandparent</td><td>cg_relationship</td><td>cr_hea</td></tr><tr><td>cg_rel_parent</td><td>cg_relats</td><td>cr_lat</td></tr><tr><td>cg_rel_relative</td><td>cg_sclat</td><td>cr_lats</td></tr><tr><td>cg_rel_spouse</td><td>cg_sex</td><td>cr_LIV</td></tr><tr><td>cg_relat</td><td>cg_sex_mean</td><td>cr_mari</td></tr><tr><td>cg_relationship</td><td>cg_stopw</td><td>cr_mp</td></tr><tr><td>cg_relats</td><td>cg_usmonths</td><td>cr_ocoun</td></tr><tr><td>cg_sclat</td><td>cg_usyears</td><td>cr_OFPRY</td></tr><tr><td>cg_sex</td><td>cg_watpo</td><td>cr_OFSER</td></tr><tr><td>cg_sex_mean</td><td>cg_wstopw</td><td>cr_olat</td></tr><tr><td>cg_stopw</td><td>CGL_TEXT</td><td>cr_OMP</td></tr><tr><td>cg_usmonths</td><td>cr_age</td><td>cr_orace</td></tr><tr><td>cg_usyears</td><td>cr_age_mean</td><td>cr_pref</td></tr><tr><td>cg_watpo</td><td>cr_age2</td><td>cr_pres</td></tr><tr><td>cg_wstopw</td><td>cr_anyone</td><td>cr_race</td></tr><tr><td>CGL_TEXT</td><td>cr_anyonew</td><td>cr_races</td></tr><tr><td>cr_age</td><td>cr_anyonews</td><td>cr_resp</td></tr><tr><td>cr_age_mean</td><td>cr_coun</td><td>cr_usmonths</td></tr><tr><td>cr_age2</td><td>cr_dob</td><td>cr_usyears</td></tr><tr><td>cr_anyone</td><td>cr_educ</td><td>crracerecode_first</td></tr><tr><td>cr_anyonew</td><td>cr_educ_year</td><td>GSDI</td></tr><tr><td>cr_anyonews</td><td>CR_Gender</td><td>kin</td></tr><tr><td>cr_coun</td><td>CR_Gender_first</td><td>livtg</td></tr><tr><td>cr_dob</td><td>CR_Gender_mean</td><td>MRTM</td></tr><tr><td>cr_educ</td><td>cr_hea</td><td>OPLC</td></tr><tr><td>cr_educ_year</td><td>cr_lat</td><td>PLC</td></tr><tr><td>CR_Gender</td><td>cr_lats</td><td>race_recode</td></tr><tr><td>CR_Gender_first</td><td>cr_LIV</td><td>race_recode_cr</td></tr><tr><td>CR_Gender_mean</td><td>cr_mari</td><td>sclat_mean</td></tr><tr><td>cr_hea</td><td>cr_mp</td><td>SCRN08</td></tr><tr><td>cr_lat</td><td>cr_ocoun</td><td>TCOA</td></tr><tr><td>cr_lats</td><td>cr_OFPRY</td><td>yrs_cg</td></tr><tr><td>cr_LIV</td><td>cr_OFSER</td><td>yrs_cg_mean</td></tr><tr><td>cr_mari</td><td>cr_olat</td><td></td></tr><tr><td>cr_mp</td><td>cr_OMP</td><td></td></tr><tr><td>cr_ocoun</td><td>cr_orace</td><td></td></tr><tr><td>cr_OFPRY</td><td>cr_pref</td><td></td></tr><tr><td>cr_OFSER</td><td>cr_pres</td><td></td></tr><tr><td>cr_olat</td><td>cr_race</td><td></td></tr><tr><td>cr_OMP</td><td>cr_races</td><td></td></tr><tr><td>cr_orace</td><td>cr_resp</td><td></td></tr><tr><td>cr_pref</td><td>cr_usmonths</td><td></td></tr><tr><td>cr_pres</td><td>cr_usyears</td><td></td></tr><tr><td>cr_race</td><td>crracerecode_first</td><td></td></tr><tr><td>cr_races</td><td>GSDI</td><td></td></tr><tr><td>cr_resp</td><td>kin</td><td></td></tr><tr><td>cr_usmonths</td><td>livtg</td><td></td></tr><tr><td>cr_usyears</td><td>MRTM</td><td></td></tr><tr><td>crracerecode_first</td><td>OPLC</td><td></td></tr><tr><td>GSDI</td><td>PLC</td><td></td></tr><tr><td>kin</td><td>race_recode</td><td></td></tr><tr><td>livtg</td><td>race_recode_cr</td><td></td></tr><tr><td>MRTM</td><td>sclat_mean</td><td></td></tr><tr><td>OPLC</td><td>SCRN08</td><td></td></tr><tr><td>PLC</td><td>TCOA</td><td></td></tr><tr><td>race_recode</td><td>yrs_cg</td><td></td></tr><tr><td>race_recode_cr</td><td>yrs_cg_mean</td><td></td></tr><tr><td>sclat_mean</td><td></td><td></td></tr><tr><td>SCRN08</td><td></td><td></td></tr><tr><td>TCOA</td><td></td><td></td></tr><tr><td>yrs_cg</td><td></td><td></td></tr><tr><td>yrs_cg_mean</td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Burden Interview </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_FAMILISM SCALE</title>
+      <link href="/2024/07/16/FAMILISM%20SCALE/"/>
+      <url>/2024/07/16/FAMILISM%20SCALE/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_FAMILISM SCALE</p><span id="more"></span><h3 id="Variable-in-FAMILISM-SCALE"><a href="#Variable-in-FAMILISM-SCALE" class="headerlink" title="Variable in FAMILISM SCALE"></a>Variable in FAMILISM SCALE</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>FAMX</td><td>FAMX07</td><td>FAMX13</td></tr><tr><td>FAMX01</td><td>FAMX08</td><td>FAMX14</td></tr><tr><td>FAMX02</td><td>FAMX09</td><td>FAMXRev</td></tr><tr><td>FAMX03</td><td>FAMX10</td><td>FAMXScr_1_TEXT</td></tr><tr><td>FAMX04</td><td>FAMX11</td><td>FAMXScr_2</td></tr><tr><td>FAMX05</td><td>FAMX12</td><td>FAMXScr_2_TEXT</td></tr><tr><td>FAMX06</td><td>FAMXScr_3</td><td>FAMXScr_3_TEXT</td></tr><tr><td>FAMXScr_4</td><td></td><td>FAMXScr_4_TEXT</td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Burden Interview </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_CESD</title>
+      <link href="/2024/07/16/CESD/"/>
+      <url>/2024/07/16/CESD/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_CESD</p><span id="more"></span><h3 id="Variable-in-CESD"><a href="#Variable-in-CESD" class="headerlink" title="Variable in CESD"></a>Variable in CESD</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>BLUES</td><td>CESD07</td><td>CESD14_mean_mean</td></tr><tr><td>ces_d_10</td><td>CESD08</td><td>CESD15</td></tr><tr><td>ces_d_10g</td><td>CESD09</td><td>CESD15A</td></tr><tr><td>cesd_sum</td><td>CESD10</td><td>CESD15A1</td></tr><tr><td>cesd_valid</td><td>CESD11</td><td>CESD16</td></tr><tr><td>CESD01</td><td>CESD12</td><td>CESD16A</td></tr><tr><td>CESD02</td><td>CESD13</td><td>cesdcutoff</td></tr><tr><td>CESD03</td><td>CESD13A</td><td>CESDG</td></tr><tr><td>CESD04</td><td>CESD13B</td><td>CESDRvw</td></tr><tr><td>CESD05</td><td>CESD14</td><td>CRYSP</td></tr><tr><td>CESD06</td><td>CESD14_mean</td><td>DISLK</td></tr><tr><td>JASGD</td><td>SC7_1</td><td>sdwi</td></tr><tr><td>SC7_0</td><td>SC7_2</td><td>sdwim</td></tr><tr><td>sdal1</td><td>SDDI</td><td>TALK</td></tr><tr><td>sdwde</td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> CESD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Placement Sociodemographic Information</title>
+      <link href="/2024/07/16/Placement%20Sociodemographic%20Information/"/>
+      <url>/2024/07/16/Placement%20Sociodemographic%20Information/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Placement Sociodemographic Information</p><span id="more"></span><h3 id="Variable-in-Placement-Sociodemographic-Information"><a href="#Variable-in-Placement-Sociodemographic-Information" class="headerlink" title="Variable in Placement Sociodemographic Information"></a>Variable in Placement Sociodemographic Information</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Placement Sociodemographic Information </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>placement</title>
+      <link href="/2024/07/16/placement/"/>
+      <url>/2024/07/16/placement/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about placement</p><span id="more"></span><h3 id="Variable-in-placement"><a href="#Variable-in-placement" class="headerlink" title="Variable in placement"></a>Variable in placement</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>PLACE_01</td><td>PLACE10</td><td>PLACE14_06</td></tr><tr><td>PLACE_02</td><td>PLACE10X_10_A</td><td>PLACE14_07</td></tr><tr><td>PLACE_03</td><td>PLACE10X_10_B</td><td>PLACE14_08</td></tr><tr><td>PLACE_04</td><td>PLACE11</td><td>PLACE14_09</td></tr><tr><td>PLACE_05</td><td>PLACE12</td><td>PLACE14_10</td></tr><tr><td>PLACE_06</td><td>PLACE13</td><td>PLACE14_11</td></tr><tr><td>PLACE_07</td><td>PLACE14_01</td><td>PLACE15</td></tr><tr><td>PLACE08</td><td>PLACE14_02</td><td>PLACE16</td></tr><tr><td>PLACE08X_08_A</td><td>PLACE14_03</td><td>PLACE16X_08_A</td></tr><tr><td>PLACE08X_08_B</td><td>PLACE14_04</td><td>PLACE16X_08_B</td></tr><tr><td>PLACE09</td><td>PLACE14_05</td><td>PLACE17</td></tr><tr><td>PLACE09X_09_A</td><td>PLACE14_06</td><td>PLACE17A</td></tr><tr><td>PLACE09X_09_B</td><td>PLACE14_07</td><td>PLACE17B</td></tr><tr><td>PLACE10</td><td>PLACE14_08</td><td>PLACE17C</td></tr><tr><td>PLACE10X_10_A</td><td>PLACE14_09</td><td>PLACE17x_01</td></tr><tr><td>PLACE10X_10_B</td><td>PLACE14_10</td><td>PLACE17x_02</td></tr><tr><td>PLACE11</td><td>PLACE14_11</td><td>PLACE17x_03</td></tr><tr><td>PLACE12</td><td>PLACE15</td><td>PLACE17x_04</td></tr><tr><td>PLACE13</td><td>PLACE16</td><td>PLACE17x_05</td></tr><tr><td>PLACE14_01</td><td>PLACE16X_08_A</td><td>placement</td></tr><tr><td>PLACE14_02</td><td>PLACE16X_08_B</td><td>PLDI</td></tr><tr><td>PLACE14_03</td><td>PLACE17</td><td></td></tr><tr><td>PLACE14_04</td><td>PLACE17A</td><td></td></tr><tr><td>PLACE14_05</td><td>PLACE17B</td><td></td></tr><tr><td>PLACE14_06</td><td>PLACE17C</td><td></td></tr><tr><td>PLACE14_07</td><td>PLACE17x_01</td><td></td></tr><tr><td>PLACE14_08</td><td>PLACE17x_02</td><td></td></tr><tr><td>PLACE14_09</td><td>PLACE17x_03</td><td></td></tr><tr><td>PLACE14_10</td><td>PLACE17x_04</td><td></td></tr><tr><td>PLACE14_11</td><td>PLACE17x_05</td><td></td></tr><tr><td>PLACE15</td><td>placement</td><td></td></tr><tr><td>PLACE16</td><td>PLDI</td><td></td></tr><tr><td>PLACE16X_08_A</td><td></td><td></td></tr><tr><td>PLACE16X_08_B</td><td></td><td></td></tr><tr><td>PLACE17</td><td></td><td></td></tr><tr><td>PLACE17A</td><td></td><td></td></tr><tr><td>PLACE17B</td><td></td><td></td></tr><tr><td>PLACE17C</td><td></td><td></td></tr><tr><td>PLACE17x_01</td><td></td><td></td></tr><tr><td>PLACE17x_02</td><td></td><td></td></tr><tr><td>PLACE17x_03</td><td></td><td></td></tr><tr><td>PLACE17x_04</td><td></td><td></td></tr><tr><td>PLACE17x_05</td><td></td><td></td></tr><tr><td>placement</td><td></td><td></td></tr><tr><td>PLDI</td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> placement </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Physical Symptoms</title>
+      <link href="/2024/07/16/Physical%20Symptoms/"/>
+      <url>/2024/07/16/Physical%20Symptoms/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about Physical Symptoms</p><span id="more"></span><h3 id="Variable-in-Physical-Symptoms"><a href="#Variable-in-Physical-Symptoms" class="headerlink" title="Variable in Physical Symptoms"></a>Variable in Physical Symptoms</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>crphy_dist</td><td>crPHYSY04A</td><td>PHY04</td></tr><tr><td>crphy_freq</td><td>crPHYSY05</td><td>PHY04A</td></tr><tr><td>crPHYSY01</td><td>crPHYSY05A</td><td>PHY05</td></tr><tr><td>crPHYSY01A</td><td>crPHYSY06</td><td>PHY05A</td></tr><tr><td>crPHYSY02</td><td>crPHYSY06A</td><td>PHY06</td></tr><tr><td>crPHYSY02A</td><td>crPHYSY07</td><td>PHY06A</td></tr><tr><td>crPHYSY03</td><td>crPHYSY07A</td><td>PHY07</td></tr><tr><td>crPHYSY03A</td><td>crPHYSY08</td><td>PHY07A</td></tr><tr><td>crPHYSY04</td><td>crPHYSY08A</td><td>PHY08</td></tr><tr><td>crPHYSY04A</td><td>crPHYSY09</td><td>PHY08A</td></tr><tr><td>crPHYSY05</td><td>crPHYSY09A</td><td>PHY09</td></tr><tr><td>crPHYSY05A</td><td>crpsy_all</td><td>PHY09A</td></tr><tr><td>crPHYSY06</td><td>phy_dist</td><td>PHYScr</td></tr><tr><td>crPHYSY06A</td><td>phy_freq</td><td>physicalymptomsscore</td></tr><tr><td>crPHYSY07</td><td>PHY01</td><td></td></tr><tr><td>crPHYSY07A</td><td>PHY01A</td><td></td></tr><tr><td>crPHYSY08</td><td>PHY02</td><td></td></tr><tr><td>crPHYSY08A</td><td>PHY02A</td><td></td></tr><tr><td>crPHYSY09</td><td>PHY03</td><td></td></tr><tr><td>crPHYSY09A</td><td>PHY03A</td><td></td></tr><tr><td>crpsy_all</td><td>PHY04</td><td></td></tr><tr><td>phy_dist</td><td>PHY04A</td><td></td></tr><tr><td>phy_freq</td><td>PHY05</td><td></td></tr><tr><td>PHY01</td><td>PHY05A</td><td></td></tr><tr><td>PHY01A</td><td>PHY06</td><td></td></tr><tr><td>PHY02</td><td>PHY06A</td><td></td></tr><tr><td>PHY02A</td><td>PHY07</td><td></td></tr><tr><td>PHY03</td><td>PHY07A</td><td></td></tr><tr><td>PHY03A</td><td>PHY08</td><td></td></tr><tr><td>PHY04</td><td>PHY08A</td><td></td></tr><tr><td>PHY04A</td><td>PHY09</td><td></td></tr><tr><td>PHY05</td><td>PHY09A</td><td></td></tr><tr><td>PHY05A</td><td>PHYScr</td><td></td></tr><tr><td>PHY06</td><td>physicalymptomsscore</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Physical Symptoms </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Others</title>
+      <link href="/2024/07/16/Others/"/>
+      <url>/2024/07/16/Others/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Others</p><span id="more"></span><h3 id="Variable-in-Others"><a href="#Variable-in-Others" class="headerlink" title="Variable in Others"></a>Variable in Others</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td><none></td><td>CRDP</td><td>move</td></tr><tr><td>adfad</td><td>crea1</td><td>MPART</td></tr><tr><td>adfia</td><td>crea2</td><td>muse1</td></tr><tr><td>AdmADL</td><td>crea3</td><td>muse2</td></tr><tr><td>AdmBurden</td><td>crea4</td><td>muse3</td></tr><tr><td>AdmCESD</td><td>CRID</td><td>muse4</td></tr><tr><td>AdmCOMPX</td><td>Data Collector:</td><td>MYWAY</td></tr><tr><td>AdmDemo</td><td>DataPt</td><td>N_BREAK</td></tr><tr><td>AdmEFFC</td><td>DEP</td><td>nausea</td></tr><tr><td>AdmFAMX</td><td>depression</td><td>nausea_dich</td></tr><tr><td>AdmForm</td><td>depression_dich</td><td>needbf</td></tr><tr><td>AdmLEVE</td><td>DIFFI</td><td>nhelp</td></tr><tr><td>AdmMutual</td><td>discharge_date</td><td>nmiss</td></tr><tr><td>AdmPHY</td><td>discharge_death</td><td>nmiss1</td></tr><tr><td>AdmPOS</td><td>discharge_hospitalizatoin</td><td>nmiss2</td></tr><tr><td>AdmPrep</td><td>discharge_reason</td><td>nmiss3</td></tr><tr><td>AdmPSY</td><td>DROPOUT</td><td>nmiss4</td></tr><tr><td>AdmRest</td><td>DROPTIME2</td><td>NoConsnt</td></tr><tr><td>AdmRISK</td><td>drowsiness</td><td>noteb</td></tr><tr><td>AdmSF12</td><td>drowsiness_dich</td><td>numbering</td></tr><tr><td>AdmSFCARE</td><td>DTCON</td><td>numbering2</td></tr><tr><td>AdmSLEEP</td><td>easi</td><td>numeric ID</td></tr><tr><td>AdmSpirit</td><td>EATNG</td><td>nunde</td></tr><tr><td>AdmSupport</td><td>EDIFF</td><td>nusef</td></tr><tr><td>again</td><td>EINAC</td><td>nvalu</td></tr><tr><td>AlertCfm</td><td>ELIGB</td><td>ofage</td></tr><tr><td>AlertRem</td><td>ELIGI</td><td>OHEAL</td></tr><tr><td>AlertRev</td><td>ENH</td><td>oimpr</td></tr><tr><td>AMEM</td><td>enha</td><td>oknow</td></tr><tr><td>AMEMB</td><td>entim</td><td>onlin</td></tr><tr><td>anxiety</td><td>ERECL</td><td>OPN</td></tr><tr><td>anxiety_dich</td><td>ETIME</td><td>ovalu</td></tr><tr><td>AREAC</td><td>EUNUS</td><td>pain</td></tr><tr><td>ASCR</td><td>EXCRI</td><td>pain_dich</td></tr><tr><td>ASSIS</td><td>expl</td><td>PGNUM</td></tr><tr><td>ASTDY</td><td>FAC1_1</td><td>phond</td></tr><tr><td>BDBND</td><td>FAMCARE_pro</td><td>phonp</td></tr><tr><td>BDCH</td><td>fc1</td><td>plea</td></tr><tr><td>behah</td><td>fc2</td><td>pleau</td></tr><tr><td>behau</td><td>fcpay</td><td>pleav</td></tr><tr><td>bene</td><td>filter_$</td><td>PLOT</td></tr><tr><td>blackaa</td><td>fpain</td><td>PrimaryFirst</td></tr><tr><td>BLADR</td><td>FRDI</td><td>PrimaryLast</td></tr><tr><td>BRDI</td><td>FROT</td><td>PYSH</td></tr><tr><td>BROT</td><td>funot</td><td>qunot</td></tr><tr><td>BSDI</td><td>fupst</td><td>r_chc</td></tr><tr><td>BSOT</td><td>gads</td><td>r_hospice_dx_cancer</td></tr><tr><td>cared</td><td>GELIG</td><td>rads</td></tr><tr><td>careh</td><td>GEVAL</td><td>Randnum</td></tr><tr><td>CCNAssm</td><td>GHOSP</td><td>randomization</td></tr><tr><td>CG1DP</td><td>gorac</td><td>rblnd</td></tr><tr><td>CG2DP</td><td>GPART</td><td>RCDI</td></tr><tr><td>CG3DG</td><td>gspri</td><td>reasonfordrop</td></tr><tr><td>cgca</td><td>gtake</td><td>rec</td></tr><tr><td>CGS</td><td>GTCA</td><td>rec1</td></tr><tr><td>CGTM</td><td>healp</td><td>rec2</td></tr><tr><td>chc</td><td>home</td><td>rec3</td></tr><tr><td>CHDI</td><td>IC</td><td>rec4</td></tr><tr><td>CHOT</td><td>idno2</td><td>RECAL</td></tr><tr><td>comfort_symptoms</td><td>impl</td><td>reso1</td></tr><tr><td>conf</td><td>INACC</td><td>reso2</td></tr><tr><td>congregation</td><td>inact</td><td>reso3</td></tr><tr><td>cormorbidities_number</td><td>INCRI</td><td>resp</td></tr><tr><td>CQDI</td><td>Initial</td><td>rhosp</td></tr><tr><td>CQOT</td><td>interve</td><td>RMP</td></tr><tr><td>CRADMI</td><td>intialrespite</td><td>rn_visit</td></tr><tr><td>CRADMRSON</td><td>intrx</td><td>rnvisitcieling</td></tr><tr><td>CRDCD</td><td>lagdepression</td><td>RPN</td></tr><tr><td>CRDEC</td><td>lagsupport</td><td>rtake</td></tr><tr><td>CRDED</td><td>LGNUM</td><td>RTCA</td></tr><tr><td>CRDEP</td><td>lgtimep</td><td>RVS</td></tr><tr><td>s1Schedule_1</td><td>spouse</td><td>tmprt</td></tr><tr><td>S1SDate_1_TEXT</td><td>spouse_mean</td><td>tmp1</td></tr><tr><td>S1SDate_2_TEXT</td><td>spouse_mean_mean</td><td>tmp10</td></tr><tr><td>satqc</td><td>spouw</td><td>tmp2</td></tr><tr><td>sc_visit</td><td>srmnt</td><td>tmp3</td></tr><tr><td>SCDI</td><td>SRTCA</td><td>tmp4</td></tr><tr><td>SCID</td><td>STDY</td><td>tmp5</td></tr><tr><td>SCNID</td><td>STIME</td><td>tmp6</td></tr><tr><td>SCORE</td><td>STNUM</td><td>tmp7</td></tr><tr><td>SCRC</td><td>strs</td><td>tmp8</td></tr><tr><td>SDVIS</td><td>strsu</td><td>tmp9</td></tr><tr><td>SGTCA</td><td>strsv</td><td>tomed</td></tr><tr><td>smoke_drink</td><td>study</td><td>totalmissing</td></tr><tr><td>sob</td><td>subscorecalc</td><td>TP</td></tr><tr><td>sob_dich</td><td>sw_visit</td><td>und</td></tr><tr><td>soc_act</td><td>swvisit_Recode</td><td>UNUSA</td></tr><tr><td>soc_sat</td><td>thou</td><td>V1</td></tr><tr><td>socsupthreerev</td><td>thouu</td><td>V10</td></tr><tr><td>socsuptotrecal</td><td>thouv</td><td>V2</td></tr><tr><td>sorter</td><td>time0</td><td>V3</td></tr><tr><td>sorterb</td><td>time0_sum</td><td>V4</td></tr><tr><td>sotfn</td><td>timepointmonths</td><td>V5</td></tr><tr><td>source01</td><td>timepoints</td><td>V6</td></tr><tr><td>spgt4</td><td>tiredness</td><td>V7</td></tr><tr><td>SPMSQ</td><td>tiredness_dich</td><td>V8</td></tr><tr><td>spouse</td><td>tkprt</td><td>V9</td></tr><tr><td>spouse_mean</td><td>tmp0</td><td>VAR00001</td></tr><tr><td>spouse_mean_mean</td><td>tmp1</td><td>VAR00002</td></tr><tr><td>spouw</td><td>tmp10</td><td>VAR00003</td></tr><tr><td>srmnt</td><td>tmp2</td><td>VAR00004</td></tr><tr><td>SRTCA</td><td>tmp3</td><td>VAR00005</td></tr><tr><td>STDY</td><td>tmp4</td><td>VAR00006</td></tr><tr><td>STIME</td><td>tmp5</td><td>well_being</td></tr><tr><td>STNUM</td><td>tmp6</td><td>well_being_dich</td></tr><tr><td>strs</td><td>tmp7</td><td>WEVAL</td></tr><tr><td>strsu</td><td>tmp8</td><td>whlis</td></tr><tr><td>strsv</td><td>tmp9</td><td>whliv</td></tr><tr><td>study</td><td>tomed</td><td>WHYNO</td></tr><tr><td>subscorecalc</td><td>totalmissing</td><td>WHYNS</td></tr><tr><td>sw_visit</td><td>TP</td><td>WillPart</td></tr><tr><td>swvisit_Recode</td><td>und</td><td>WLNH</td></tr><tr><td>thou</td><td>UNUSA</td><td>WMPAR</td></tr><tr><td>thouu</td><td>V1</td><td>WNH</td></tr><tr><td>thouv</td><td>V10</td><td>work</td></tr><tr><td>time0</td><td>V2</td><td>work1</td></tr><tr><td>time0_sum</td><td>V3</td><td>work2</td></tr><tr><td>timepointmonths</td><td>V4</td><td>work3</td></tr><tr><td>timepoints</td><td>V5</td><td>work4</td></tr><tr><td>tiredness</td><td>V6</td><td>WPART</td></tr><tr><td>tiredness_dich</td><td>V7</td><td>zipcode</td></tr><tr><td>tkprt</td><td>V8</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mutuality Scale</title>
+      <link href="/2024/07/16/Mutuality%20Scale/"/>
+      <url>/2024/07/16/Mutuality%20Scale/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Mutuality Scale</p><span id="more"></span><h3 id="Variable-in-Mutuality-Scale"><a href="#Variable-in-Mutuality-Scale" class="headerlink" title="Variable in Mutuality Scale"></a>Variable in Mutuality Scale</h3><table><thead><tr><th>Column 1</th><th>Column 2</th></tr></thead><tbody><tr><td>MUTUAL01</td><td>MUTUAL10</td></tr><tr><td>MUTUAL02</td><td>MUTUAL11</td></tr><tr><td>MUTUAL03</td><td>MUTUAL12</td></tr><tr><td>MUTUAL04</td><td>MUTUAL13</td></tr><tr><td>MUTUAL05</td><td>MUTUAL14</td></tr><tr><td>MUTUAL06</td><td>MUTUAL15</td></tr><tr><td>MUTUAL07</td><td>MUTUALRev</td></tr><tr><td>MUTUAL08</td><td>MUTUALscore</td></tr><tr><td>MUTUAL09</td><td>MUTUALScr</td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mutuality Scale </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Burden Scale for CG</title>
+      <link href="/2024/07/16/Burden%20Scale%20for%20CG/"/>
+      <url>/2024/07/16/Burden%20Scale%20for%20CG/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about Burden Scale for CG</p><span id="more"></span><h3 id="Variable-in-Burden-Scale-for-CG"><a href="#Variable-in-Burden-Scale-for-CG" class="headerlink" title="Variable in Burden Scale for CG"></a>Variable in Burden Scale for CG</h3><table><thead><tr><th>Column 1</th><th>Column 2</th></tr></thead><tbody><tr><td>cb2</td><td>cb6</td></tr><tr><td>cb3</td><td>cb7</td></tr><tr><td>cb4</td><td>cb8</td></tr><tr><td>cb5</td><td>cb9</td></tr><tr><td>cequel_1</td><td>cequel_2</td></tr><tr><td>cequel_3</td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Burden Scale for CG </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MMSE</title>
+      <link href="/2024/07/16/MMSE/"/>
+      <url>/2024/07/16/MMSE/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_MMSE</p><span id="more"></span><h3 id="Variable-in-MMSE"><a href="#Variable-in-MMSE" class="headerlink" title="Variable in MMSE"></a>Variable in MMSE</h3><table><thead><tr><th>Column 1</th></tr></thead><tbody><tr><td>crMMSE</td></tr><tr><td>MMDI</td></tr><tr><td>PrimaryLast</td></tr></tbody></table><p>| BURDEN03   |            |            |            |<br>| BURDEN04   |            |            |            |</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> MMSE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Formal Care and Services</title>
+      <link href="/2024/07/16/Formal%20Care%20and%20Services/"/>
+      <url>/2024/07/16/Formal%20Care%20and%20Services/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Formal Care and Services</p><span id="more"></span><h3 id="Variable-in-Formal-Care-and-Services"><a href="#Variable-in-Formal-Care-and-Services" class="headerlink" title="Variable in Formal Care and Services"></a>Variable in Formal Care and Services</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>cg_form_care</td><td>FORM03</td><td>FORM10B_1_TEXT</td></tr><tr><td>FCDI</td><td>FORM04</td><td>FORM10B_2_TEXT</td></tr><tr><td>FCOT</td><td>FORM05</td><td>FORM11</td></tr><tr><td>FORM01</td><td>FORM05A</td><td>FORM11A</td></tr><tr><td>FORM01A</td><td>FORM05B</td><td>FORM11B</td></tr><tr><td>FORM01B</td><td>FORM05B_1_TEXT</td><td>FORM11B_1_TEXT</td></tr><tr><td>FORM01B_1_TEXT</td><td>FORM05B_2_TEXT</td><td>FORM11B_2_TEXT</td></tr><tr><td>FORM01B_2_TEXT</td><td>FORM06</td><td>FORM12</td></tr><tr><td>FORM02</td><td>FORM06A</td><td>FORM12A</td></tr><tr><td>FORM02A</td><td>FORM06B</td><td>FORM12B</td></tr><tr><td>FORM02B</td><td>FORM06B_1_TEXT</td><td>FORM12B_1_TEXT</td></tr><tr><td>FORM02B_1_TEXT</td><td>FORM06B_2_TEXT</td><td>FORM12B_2_TEXT</td></tr><tr><td>FORM02B_2_TEXT</td><td>FORM07</td><td>FORM13A</td></tr><tr><td>FORM03</td><td>FORM07A</td><td>FORM13B</td></tr><tr><td>FORM04</td><td>FORM07B</td><td>FORM13B_1_TEXT</td></tr><tr><td>FORM05</td><td>FORM07B_1_TEXT</td><td>FORM13B_2_TEXT</td></tr><tr><td>FORM05A</td><td>FORM07B_2_TEXT</td><td>FORM14</td></tr><tr><td>FORM05B</td><td>FORM08</td><td>FORM14A</td></tr><tr><td>FORM05B_1_TEXT</td><td>FORM08A</td><td>FORM14B</td></tr><tr><td>FORM05B_2_TEXT</td><td>FORM08B</td><td>FORM15</td></tr><tr><td>FORM06</td><td>FORM08B_1_TEXT</td><td>FORM15A</td></tr><tr><td>FORM06A</td><td>FORM08B_2_TEXT</td><td>FORM15B</td></tr><tr><td>FORM06B</td><td>FORM09</td><td>FORM16</td></tr><tr><td>FORM06B_1_TEXT</td><td>FORM09A</td><td>FORM16A</td></tr><tr><td>FORM06B_2_TEXT</td><td>FORM10</td><td>FORM16B</td></tr><tr><td>FORM07</td><td>FORM10A</td><td>FORM17</td></tr><tr><td>FORM07A</td><td>FORM10B</td><td>FORM17A</td></tr><tr><td>FORM07B</td><td>FORM10B_1_TEXT</td><td>FORM17B</td></tr><tr><td>FORM07B_1_TEXT</td><td>FORM10B_2_TEXT</td><td>FORM18</td></tr><tr><td>FORM07B_2_TEXT</td><td>FORM11</td><td>FORM18A</td></tr><tr><td>FORM08</td><td>FORM11A</td><td>FORM18B</td></tr><tr><td>FORM08A</td><td>FORM11B</td><td>FORM19</td></tr><tr><td>FORM08B</td><td>FORM11B_1_TEXT</td><td>FORM19A</td></tr><tr><td>FORM08B_1_TEXT</td><td>FORM11B_2_TEXT</td><td>FORM19B</td></tr><tr><td>FORM08B_2_TEXT</td><td>FORM12</td><td>FORM20</td></tr><tr><td>FORM09</td><td>FORM12A</td><td>FORM20A</td></tr><tr><td>FORM09A</td><td>FORM12B</td><td>FORM20B</td></tr><tr><td>FORM10</td><td>FORM12B_1_TEXT</td><td>FORM21</td></tr><tr><td>FORM10A</td><td>FORM12B_2_TEXT</td><td>FORM22</td></tr><tr><td>FORM10B</td><td>FORM13A</td><td>FORM23</td></tr><tr><td>FORM10B_1_TEXT</td><td>FORM13B</td><td>FORM23A</td></tr><tr><td>FORM10B_2_TEXT</td><td>FORM13B_1_TEXT</td><td>SCRN23</td></tr><tr><td>FORM11</td><td>FORM13B_2_TEXT</td><td>TFDI</td></tr><tr><td>FORM11A</td><td>FORM14</td><td></td></tr><tr><td>FORM11B</td><td>FORM14A</td><td></td></tr><tr><td>FORM11B_1_TEXT</td><td>FORM14B</td><td></td></tr><tr><td>FORM11B_2_TEXT</td><td>FORM15</td><td></td></tr><tr><td>FORM12</td><td>FORM15A</td><td></td></tr><tr><td>FORM12A</td><td>FORM15B</td><td></td></tr><tr><td>FORM12B</td><td>FORM16</td><td></td></tr><tr><td>FORM12B_1_TEXT</td><td>FORM16A</td><td></td></tr><tr><td>FORM12B_2_TEXT</td><td>FORM16B</td><td></td></tr><tr><td>FORM13A</td><td>FORM17</td><td></td></tr><tr><td>FORM13B</td><td>FORM17A</td><td></td></tr><tr><td>FORM13B_1_TEXT</td><td>FORM17B</td><td></td></tr><tr><td>FORM13B_2_TEXT</td><td>FORM18</td><td></td></tr><tr><td>FORM14</td><td>FORM18A</td><td></td></tr><tr><td>FORM14A</td><td>FORM18B</td><td></td></tr><tr><td>FORM14B</td><td>FORM19</td><td></td></tr><tr><td>FORM15</td><td>FORM19A</td><td></td></tr><tr><td>FORM15A</td><td>FORM19B</td><td></td></tr><tr><td>FORM15B</td><td>FORM20</td><td></td></tr><tr><td>FORM16</td><td>FORM20A</td><td></td></tr><tr><td>FORM16A</td><td>FORM20B</td><td></td></tr><tr><td>FORM16B</td><td>FORM21</td><td></td></tr><tr><td>FORM17</td><td>FORM22</td><td></td></tr><tr><td>FORM17A</td><td>FORM23</td><td></td></tr><tr><td>FORM17B</td><td>FORM23A</td><td></td></tr><tr><td>FORM18</td><td>SCRN23</td><td></td></tr><tr><td>FORM18A</td><td>TFDI</td><td></td></tr><tr><td>FORM18B</td><td></td><td></td></tr><tr><td>FORM19</td><td></td><td></td></tr><tr><td>FORM19A</td><td></td><td></td></tr><tr><td>FORM19B</td><td></td><td></td></tr><tr><td>FORM20</td><td></td><td></td></tr><tr><td>FORM20A</td><td></td><td></td></tr><tr><td>FORM20B</td><td></td><td></td></tr><tr><td>FORM21</td><td></td><td></td></tr><tr><td>FORM22</td><td></td><td></td></tr><tr><td>FORM23</td><td></td><td></td></tr><tr><td>FORM23A</td><td></td><td></td></tr><tr><td>SCRN23</td><td></td><td></td></tr><tr><td>TFDI</td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Formal Care and Services </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Caregiver Compassion Scale Score</title>
+      <link href="/2024/07/16/Caregiver%20Compassion%20Scale%20Score/"/>
+      <url>/2024/07/16/Caregiver%20Compassion%20Scale%20Score/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about Caregiver Compassion Scale Score</p><span id="more"></span><h3 id="Variable-in-Caregiver-Compassion-Scale-Score"><a href="#Variable-in-Caregiver-Compassion-Scale-Score" class="headerlink" title="Variable in Caregiver Compassion Scale Score"></a>Variable in Caregiver Compassion Scale Score</h3><table><thead><tr><th>Column 1</th><th>Column 2</th></tr></thead><tbody><tr><td>compassion</td><td>COMPX04</td></tr><tr><td>Complete</td><td>COMPX05</td></tr><tr><td>CompleteFU</td><td>COMPX06</td></tr><tr><td>COMPX</td><td>COMPX07</td></tr><tr><td>COMPX01</td><td>COMPX08</td></tr><tr><td>COMPX02</td><td>COMPX09</td></tr><tr><td>COMPX03</td><td>COMPX10</td></tr><tr><td></td><td>COMPX11</td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Caregiver Compassion Scale Score </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_Caregiving Self-Efficacy</title>
+      <link href="/2024/07/16/Caregiving%20Self-Efficacy/"/>
+      <url>/2024/07/16/Caregiving%20Self-Efficacy/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Caregiving Self-Efficacy</p><span id="more"></span><h3 id="Variable-in-Caregiving-Self-Efficacy"><a href="#Variable-in-Caregiving-Self-Efficacy" class="headerlink" title="Variable in Caregiving Self-Efficacy"></a>Variable in Caregiving Self-Efficacy</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>EFFC_I2</td><td>EFFC0104_7</td><td>EFFC11_1</td></tr><tr><td>EFFC_I3</td><td>EFFC0104_7d</td><td>EFFC11_1d</td></tr><tr><td>EFFC_I4</td><td>EFFC0104_8</td><td>EFFC12_1</td></tr><tr><td>EFFC_I5</td><td>EFFC0104_8d</td><td>EFFC12_1d</td></tr><tr><td>EFFC_I6</td><td>EFFC0507_1</td><td>EFFC13_1</td></tr><tr><td>EFFC_I7</td><td>EFFC0507_1d</td><td>EFFC13_1d</td></tr><tr><td>EFFC_I8</td><td>EFFC0507_2</td><td>EFFC14_1</td></tr><tr><td>EFFC0104_5</td><td>EFFC0507_2d</td><td>EFFC14_1d</td></tr><tr><td>EFFC0104_5d</td><td>EFFC0507_3</td><td>EFFC1517_1</td></tr><tr><td>EFFC0104_6</td><td>EFFC0507_3d</td><td>EFFC1517_1d</td></tr><tr><td>EFFC0104_6d</td><td>EFFC0809_1</td><td>EFFC1517_2</td></tr><tr><td>EFFC0104_7</td><td>EFFC0809_1d</td><td>EFFC1517_2d</td></tr><tr><td>EFFC0104_7d</td><td>EFFC0809_2</td><td>EFFC1517_3</td></tr><tr><td>EFFC0104_8</td><td>EFFC0809_2d</td><td>EFFC1517_3d</td></tr><tr><td>EFFC0104_8d</td><td>EFFC10_2</td><td>EFFC18_1</td></tr><tr><td>EFFC0507_1</td><td>EFFC10_2d</td><td>EFFC18_1d</td></tr><tr><td>EFFC0507_1d</td><td>EFFC11_1</td><td>EFFC19_1</td></tr><tr><td>EFFC0507_2</td><td>EFFC11_1d</td><td>EFFC19_1d</td></tr><tr><td>EFFC0507_2d</td><td>EFFC12_1</td><td>EFFCScr_1</td></tr><tr><td>EFFC0507_3</td><td>EFFC12_1d</td><td>EFFCScr_1_TEXT</td></tr><tr><td>EFFC0507_3d</td><td>EFFC13_1</td><td>EFFCScr_2</td></tr><tr><td>EFFC0809_1</td><td>EFFC13_1d</td><td>EFFCScr_2_TEXT</td></tr><tr><td>EFFC0809_1d</td><td>EFFC14_1</td><td>EFFCScr_3</td></tr><tr><td>EFFC0809_2</td><td>EFFC14_1d</td><td>EFFCScr_3_TEXT</td></tr><tr><td>EFFC0809_2d</td><td>EFFC1517_1</td><td>EFFCScr_4</td></tr><tr><td>EFFC10_2</td><td>EFFC1517_1d</td><td>EFFCScr_4_TEXT</td></tr><tr><td>EFFC10_2d</td><td>EFFC1517_2</td><td>effdisruptivevalid</td></tr><tr><td>EFFC11_1</td><td>EFFC1517_2d</td><td>effliftingvalid</td></tr><tr><td>EFFC11_1d</td><td>EFFC1517_3</td><td>effrespitevalid</td></tr><tr><td>EFFC12_1</td><td>EFFC1517_3d</td><td>efftotalrescore</td></tr><tr><td>EFFC12_1d</td><td>EFFC18_1</td><td>efftotalvalid</td></tr><tr><td>EFFC13_1</td><td>EFFC18_1d</td><td>effupsetvalid</td></tr><tr><td>EFFC13_1d</td><td>EFFC19_1</td><td>se_respite</td></tr><tr><td>EFFC14_1</td><td>EFFC19_1d</td><td>se_strength</td></tr><tr><td>EFFC14_1d</td><td>EFFCScr_1</td><td>se_thoughts</td></tr><tr><td>EFFC1517_1</td><td>EFFCScr_1_TEXT</td><td>Self-Efficacy for Responding to Disruptive Patient Behaviors (0-100)</td></tr><tr><td>EFFC1517_1d</td><td>EFFCScr_2</td><td></td></tr><tr><td>EFFC1517_2</td><td>EFFCScr_2_TEXT</td><td></td></tr><tr><td>EFFC1517_2d</td><td>EFFCScr_3</td><td></td></tr><tr><td>EFFC1517_3</td><td>EFFCScr_3_TEXT</td><td></td></tr><tr><td>EFFC1517_3d</td><td>EFFCScr_4</td><td></td></tr><tr><td>EFFC18_1</td><td>EFFCScr_4_TEXT</td><td></td></tr><tr><td>EFFC18_1d</td><td>effdisruptivevalid</td><td></td></tr><tr><td>EFFC19_1</td><td>effliftingvalid</td><td></td></tr><tr><td>EFFC19_1d</td><td>effrespitevalid</td><td></td></tr><tr><td>EFFCScr_1</td><td>efftotalrescore</td><td></td></tr><tr><td>EFFCScr_1_TEXT</td><td>efftotalvalid</td><td></td></tr><tr><td>EFFCScr_2</td><td>effupsetvalid</td><td></td></tr><tr><td>EFFCScr_2_TEXT</td><td>se_respite</td><td></td></tr><tr><td>EFFCScr_3</td><td>se_strength</td><td></td></tr><tr><td>EFFCScr_3_TEXT</td><td>se_thoughts</td><td></td></tr><tr><td>EFFCScr_4</td><td>Self-Efficacy for Responding to Disruptive Patient Behaviors (0-100)</td><td></td></tr><tr><td>EFFCScr_4_TEXT</td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Burden Interview </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Survey_Spiritual/Existential Status</title>
+      <link href="/2024/07/16/SpiritualExistential%20Status/"/>
+      <url>/2024/07/16/SpiritualExistential%20Status/</url>
+      
+        <content type="html"><![CDATA[<p>This is details about survey_Spiritual&#x2F;Existential Status</p><span id="more"></span><h3 id="Variable-in-Spiritual-Existential-Status"><a href="#Variable-in-Spiritual-Existential-Status" class="headerlink" title="Variable in Spiritual&#x2F;Existential Status"></a>Variable in Spiritual&#x2F;Existential Status</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Spiritual/Existential Status </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Survey_Burden Interview</title>
       <link href="/2024/07/08/Survey_Burden_Interview/"/>
       <url>/2024/07/08/Survey_Burden_Interview/</url>
       
-        <content type="html"><![CDATA[<p>This is details about survey_Burden Interview</p><span id="more"></span><h3 id="Variable-in-Burden-Interview"><a href="#Variable-in-Burden-Interview" class="headerlink" title="Variable in Burden Interview"></a>Variable in Burden Interview</h3><table><thead><tr><th>Name</th><th></th><th></th><th></th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<p>This is details about survey_Burden Interview</p><span id="more"></span><h3 id="Variable-in-Burden-Interview"><a href="#Variable-in-Burden-Interview" class="headerlink" title="Variable in Burden Interview"></a>Variable in Burden Interview</h3><table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th><th>Column 4</th></tr></thead><tbody><tr><td>BURDEN</td><td>BURDEN05</td><td>BURDEN10</td><td>BURDENRev</td></tr><tr><td>burden_mean</td><td>BURDEN06</td><td>BURDEN11</td><td>BURDENScr</td></tr><tr><td>burden_sum</td><td>BURDEN07</td><td>BURDEN12</td><td>BurdenSS</td></tr><tr><td>BURDEN01</td><td>BURDEN08</td><td></td><td></td></tr><tr><td>BURDEN02</td><td>BURDEN09</td><td></td><td></td></tr><tr><td>BURDEN03</td><td></td><td></td><td></td></tr><tr><td>BURDEN04</td><td></td><td></td><td></td></tr></tbody></table>]]></content>
       
       
       
@@ -46,7 +521,7 @@
       <link href="/2024/07/07/AllSurveysandDescription/"/>
       <url>/2024/07/07/AllSurveysandDescription/</url>
       
-        <content type="html"><![CDATA[<p>Below is a brief description of each database.</p><span id="more"></span><hr><h3 id="Database-Introduction"><a href="#Database-Introduction" class="headerlink" title="Database Introduction"></a>Database Introduction</h3><table><thead><tr><th>Database Name</th><th><strong>Overview</strong></th><th>Database <strong>Description</strong></th><th>Link</th></tr></thead><tbody><tr><td>REACH Community</td><td>618 variables and 352 data points</td><td>Collects extensive data on the REACH Community, focusing on physical health, psychological well-being, and social interactions within the caregiving community.</td><td></td></tr><tr><td>NINR</td><td>802 variables and 635 data points</td><td>Centered on a network of community care centers, it gathers detailed data on the services provided and the outcomes for both caregivers and care recipients.</td><td></td></tr><tr><td>GEMSSTAR</td><td>128 variables and 391 data points</td><td>Focuses on specific aspects of caregiver and care recipient interactions, particularly emotional and cognitive assessments.</td><td></td></tr><tr><td>REACH I</td><td>794 variables and 5282 data points</td><td>Focuses on the initial set of data from caregivers and care recipients, covering a wide range of health and well-being metrics.</td><td></td></tr><tr><td>REACH II</td><td>1185 variables and 1577 data points</td><td>adds longitudinal data to track changes in the caregiver and care recipient population over time</td><td></td></tr><tr><td>VIDEO</td><td>1007 variables and 313 data points,</td><td>includes video recordings of caregiver-recipient interactions, assessments of non-verbal communication, and analysis of behavioral patterns.</td><td></td></tr></tbody></table><hr><h3 id="Survey-Introduction"><a href="#Survey-Introduction" class="headerlink" title="Survey Introduction"></a>Survey Introduction</h3><table><thead><tr><th>Survey Name</th><th>Variable Details</th><th>Links</th></tr></thead><tbody><tr><td>ADL</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_ADL</a></td><td></td></tr><tr><td>Burden Interview</td><td><a href="https://www.deepl.com/zh/translator">Survey_Burden_Interview</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><hr><h3 id="Similarities-Among-Databases"><a href="#Similarities-Among-Databases" class="headerlink" title="Similarities Among Databases"></a><strong>Similarities Among Databases</strong></h3><ol><li><p>All databases use standardized tools like the MMSE (Mini-Mental State Examination) and Quality of Life assessments, ensuring consistency in the type of data collected. </p></li><li><p>The target population across all databases focuses on caregivers and care recipients, particularly those dealing with cognitive impairments and chronic conditions.</p></li><li><p>The data collection methods are consistent across the databases, employing both online and offline approaches, including in-person interviews and telephone surveys.</p></li></ol><hr><h3 id="Differences-Among-Databases"><a href="#Differences-Among-Databases" class="headerlink" title="Differences Among Databases"></a><strong>Differences Among Databases</strong></h3><ol><li><p>The scale and scope of each database vary significantly.</p></li><li><p>The data collection periods differ, which may affect the consistency of longitudinal data analysis.</p></li><li><p>The data collection methods differ, particularly for the VIDEO database, which relies on video-based data less common in the other databases.</p></li></ol>]]></content>
+        <content type="html"><![CDATA[<p>Below is a brief description of each database.</p><span id="more"></span><hr><h3 id="Database-Introduction"><a href="#Database-Introduction" class="headerlink" title="Database Introduction"></a>Database Introduction</h3><table><thead><tr><th>Database Name</th><th><strong>Overview</strong></th><th>Database <strong>Description</strong></th></tr></thead><tbody><tr><td>REACH Community</td><td>618 variables and 352 data points</td><td>Collects extensive data on the REACH Community, focusing on physical health, psychological well-being, and social interactions within the caregiving community.</td></tr><tr><td>NINR</td><td>802 variables and 635 data points</td><td>Centered on a network of community care centers, it gathers detailed data on the services provided and the outcomes for both caregivers and care recipients.</td></tr><tr><td>GEMSSTAR</td><td>128 variables and 391 data points</td><td>Focuses on specific aspects of caregiver and care recipient interactions, particularly emotional and cognitive assessments.</td></tr><tr><td>REACH I</td><td>794 variables and 5282 data points</td><td>Focuses on the initial set of data from caregivers and care recipients, covering a wide range of health and well-being metrics.</td></tr><tr><td>REACH II</td><td>1185 variables and 1577 data points</td><td>adds longitudinal data to track changes in the caregiver and care recipient population over time</td></tr><tr><td>VIDEO</td><td>1007 variables and 313 data points,</td><td>includes video recordings of caregiver-recipient interactions, assessments of non-verbal communication, and analysis of behavioral patterns.</td></tr></tbody></table><hr><h3 id="Survey-Introduction"><a href="#Survey-Introduction" class="headerlink" title="Survey Introduction"></a>Survey Introduction</h3><table><thead><tr><th>Survey Name</th><th>Variable Details</th><th>Links</th></tr></thead><tbody><tr><td>ADL</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_ADL</a></td><td></td></tr><tr><td>Burden Interview</td><td><a href="https://www.deepl.com/zh/translator">Survey_Burden_Interview</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><hr><h3 id="Similarities-Among-Databases"><a href="#Similarities-Among-Databases" class="headerlink" title="Similarities Among Databases"></a><strong>Similarities Among Databases</strong></h3><ol><li><p>All databases use standardized tools like the MMSE (Mini-Mental State Examination) and Quality of Life assessments, ensuring consistency in the type of data collected. </p></li><li><p>The target population across all databases focuses on caregivers and care recipients, particularly those dealing with cognitive impairments and chronic conditions.</p></li><li><p>The data collection methods are consistent across the databases, employing both online and offline approaches, including in-person interviews and telephone surveys.</p></li></ol><hr><h3 id="Differences-Among-Databases"><a href="#Differences-Among-Databases" class="headerlink" title="Differences Among Databases"></a><strong>Differences Among Databases</strong></h3><ol><li><p>The scale and scope of each database vary significantly.</p></li><li><p>The data collection periods differ, which may affect the consistency of longitudinal data analysis.</p></li><li><p>The data collection methods differ, particularly for the VIDEO database, which relies on video-based data less common in the other databases.</p></li></ol>]]></content>
       
       
       
