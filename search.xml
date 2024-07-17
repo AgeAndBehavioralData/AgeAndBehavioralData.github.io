@@ -33,7 +33,7 @@
       
         <tags>
             
-            <tag> Risk Appraisal </tag>
+            <tag> SLEEP QUESTIONNAIRE </tag>
             
         </tags>
       
@@ -91,25 +91,6 @@
         <tags>
             
             <tag> RESTORATIVE ACTIVITIES </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Survey_Religiosity</title>
-      <link href="/2024/07/16/Religiosity/"/>
-      <url>/2024/07/16/Religiosity/</url>
-      
-        <content type="html"><![CDATA[<p>This is details about survey_Religiosity</p><span id="more"></span><h3 id="Variable-in-Religiosity"><a href="#Variable-in-Religiosity" class="headerlink" title="Variable in Religiosity"></a>Variable in Religiosity</h3><table><thead><tr><th>Column 1</th><th>Column 2</th></tr></thead><tbody><tr><td>COP01</td><td>COP06</td></tr><tr><td>COP02</td><td>COP08</td></tr><tr><td>COP03</td><td>COP09</td></tr><tr><td>COP04</td><td>RGDI</td></tr><tr><td>COP05</td><td></td></tr></tbody></table>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Burden Interview </tag>
             
         </tags>
       
@@ -223,7 +204,7 @@
       
         <tags>
             
-            <tag> Burden Interview </tag>
+            <tag> caregiver/care recipient sociodemographic information </tag>
             
         </tags>
       
@@ -242,7 +223,7 @@
       
         <tags>
             
-            <tag> Burden Interview </tag>
+            <tag> FAMILISM SCALE </tag>
             
         </tags>
       
@@ -375,7 +356,7 @@
       
         <tags>
             
-            <tag> Burden Scale for CG </tag>
+            <tag> BurdenScaleForCG </tag>
             
         </tags>
       
@@ -451,7 +432,7 @@
       
         <tags>
             
-            <tag> Burden Interview </tag>
+            <tag> Caregiving Self-Efficacy </tag>
             
         </tags>
       
@@ -498,11 +479,11 @@
     
     
     <entry>
-      <title>Fliter</title>
+      <title>Survey Tags/Filter(Excel)</title>
       <link href="/2024/07/07/filter/"/>
       <url>/2024/07/07/filter/</url>
       
-        <content type="html"><![CDATA[<p>In every study, there are common variables such as ID, study time, etc. We extract these to form a list of common variables.</p><span id="more"></span><h3 id="Common-Variables"><a href="#Common-Variables" class="headerlink" title="Common Variables"></a>Common Variables</h3><table><thead><tr><th>Variable Name</th><th><strong>Data type</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td>timepoint</td><td>int/numer</td><td></td></tr><tr><td>SCDI</td><td>int/numer</td><td></td></tr><tr><td>TP</td><td>int/numer</td><td></td></tr><tr><td>STUDY</td><td>string/word</td><td></td></tr><tr><td>CRID</td><td>int/numer</td><td></td></tr><tr><td>SCID</td><td>int/numer</td><td></td></tr><tr><td>DATA</td><td>data/time</td><td></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<p>The download link for our excel version of the dataset is below (our completed Filters and all the data points in it ):</p><p>🗂 : <a href="https://docs.google.com/spreadsheets/d/1AFgbi3di4DtF3piQemDg9QWUSo06KL7T/edit?usp=drive_link&amp;ouid=108859965319862590832&amp;rtpof=true&amp;sd=true">Link</a></p>]]></content>
       
       
       
@@ -521,13 +502,13 @@
       <link href="/2024/07/07/AllSurveysandDescription/"/>
       <url>/2024/07/07/AllSurveysandDescription/</url>
       
-        <content type="html"><![CDATA[<p>Below is a brief description of each database.</p><span id="more"></span><hr><h3 id="Database-Introduction"><a href="#Database-Introduction" class="headerlink" title="Database Introduction"></a>Database Introduction</h3><table><thead><tr><th>Database Name</th><th><strong>Overview</strong></th><th>Database <strong>Description</strong></th></tr></thead><tbody><tr><td>REACH Community</td><td>618 variables and 352 data points</td><td>Collects extensive data on the REACH Community, focusing on physical health, psychological well-being, and social interactions within the caregiving community.</td></tr><tr><td>NINR</td><td>802 variables and 635 data points</td><td>Centered on a network of community care centers, it gathers detailed data on the services provided and the outcomes for both caregivers and care recipients.</td></tr><tr><td>GEMSSTAR</td><td>128 variables and 391 data points</td><td>Focuses on specific aspects of caregiver and care recipient interactions, particularly emotional and cognitive assessments.</td></tr><tr><td>REACH I</td><td>794 variables and 5282 data points</td><td>Focuses on the initial set of data from caregivers and care recipients, covering a wide range of health and well-being metrics.</td></tr><tr><td>REACH II</td><td>1185 variables and 1577 data points</td><td>adds longitudinal data to track changes in the caregiver and care recipient population over time</td></tr><tr><td>VIDEO</td><td>1007 variables and 313 data points,</td><td>includes video recordings of caregiver-recipient interactions, assessments of non-verbal communication, and analysis of behavioral patterns.</td></tr></tbody></table><hr><h3 id="Survey-Introduction"><a href="#Survey-Introduction" class="headerlink" title="Survey Introduction"></a>Survey Introduction</h3><table><thead><tr><th>Survey Name</th><th>Variable Details</th><th>Links</th></tr></thead><tbody><tr><td>ADL</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_ADL</a></td><td></td></tr><tr><td>Burden Interview</td><td><a href="https://www.deepl.com/zh/translator">Survey_Burden_Interview</a></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><hr><h3 id="Similarities-Among-Databases"><a href="#Similarities-Among-Databases" class="headerlink" title="Similarities Among Databases"></a><strong>Similarities Among Databases</strong></h3><ol><li><p>All databases use standardized tools like the MMSE (Mini-Mental State Examination) and Quality of Life assessments, ensuring consistency in the type of data collected. </p></li><li><p>The target population across all databases focuses on caregivers and care recipients, particularly those dealing with cognitive impairments and chronic conditions.</p></li><li><p>The data collection methods are consistent across the databases, employing both online and offline approaches, including in-person interviews and telephone surveys.</p></li></ol><hr><h3 id="Differences-Among-Databases"><a href="#Differences-Among-Databases" class="headerlink" title="Differences Among Databases"></a><strong>Differences Among Databases</strong></h3><ol><li><p>The scale and scope of each database vary significantly.</p></li><li><p>The data collection periods differ, which may affect the consistency of longitudinal data analysis.</p></li><li><p>The data collection methods differ, particularly for the VIDEO database, which relies on video-based data less common in the other databases.</p></li></ol>]]></content>
+        <content type="html"><![CDATA[<p>Below is a brief description of each database.</p><span id="more"></span><hr><h3 id="Database-Introduction"><a href="#Database-Introduction" class="headerlink" title="Database Introduction"></a>Database Introduction</h3><table><thead><tr><th>Database Name</th><th><strong>Overview</strong></th><th>Database <strong>Description</strong></th></tr></thead><tbody><tr><td>REACH Community</td><td>618 variables and 352 data points</td><td>Collects extensive data on the REACH Community, focusing on physical health, psychological well-being, and social interactions within the caregiving community.</td></tr><tr><td>NINR</td><td>802 variables and 635 data points</td><td>Centered on a network of community care centers, it gathers detailed data on the services provided and the outcomes for both caregivers and care recipients.</td></tr><tr><td>GEMSSTAR</td><td>128 variables and 391 data points</td><td>Focuses on specific aspects of caregiver and care recipient interactions, particularly emotional and cognitive assessments.</td></tr><tr><td>REACH I</td><td>794 variables and 5282 data points</td><td>Focuses on the initial set of data from caregivers and care recipients, covering a wide range of health and well-being metrics.</td></tr><tr><td>REACH II</td><td>1185 variables and 1577 data points</td><td>adds longitudinal data to track changes in the caregiver and care recipient population over time</td></tr><tr><td>VIDEO</td><td>1007 variables and 313 data points,</td><td>includes video recordings of caregiver-recipient interactions, assessments of non-verbal communication, and analysis of behavioral patterns.</td></tr></tbody></table><hr><h3 id="Survey-Introduction"><a href="#Survey-Introduction" class="headerlink" title="Survey Introduction"></a>Survey Introduction</h3><table><thead><tr><th>Survey Name</th><th>Variable Details</th></tr></thead><tbody><tr><td>ADL</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_ADL</a></td></tr><tr><td>Burden Interview</td><td><a href="https://www.deepl.com/zh/translator">Survey_Burden_Interview</a></td></tr><tr><td>Burden Scale for CG</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">SurveyBurdenScaleforCG</a></td></tr><tr><td>Caregiver Compassion Scale Score</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">SurveyScore</a></td></tr><tr><td>Caregiver/care recipient sociodemographic information</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">SurveyInformation</a></td></tr><tr><td>Caregiving Self-Efficacy</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">SurveyEfficacy</a></td></tr><tr><td>CESD</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_CESD</a></td></tr><tr><td>FAMILISM SCALE</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_SCALE</a></td></tr><tr><td>Formal Care and Services</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_Services</a></td></tr><tr><td>General Quality of Life</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_Life</a></td></tr><tr><td>MMSE</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_MMSE</a></td></tr><tr><td>Mutuality Scale</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_Scale</a></td></tr><tr><td>Physical Symptoms</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_Physical </a></td></tr><tr><td>placement</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_placement</a></td></tr><tr><td>Placement Sociodemographic Information</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_Information</a></td></tr><tr><td>POSITIVE ASPECTS OF CAREGIVING</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_CAREGIVING</a></td></tr><tr><td>Psychological symptoms</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_Psychological</a></td></tr><tr><td>Quality of life</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_life1</a></td></tr><tr><td>Religiosity</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_Religiosity</a></td></tr><tr><td>RESTORATIVE ACTIVITIES</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_ACTIVITIES</a></td></tr><tr><td>REVISED MEMORY AND BEHAVIOR PROBLEMS CHECKLIST</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_CHECKLIST</a></td></tr><tr><td>Risk Appraisal</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_risk</a></td></tr><tr><td>SLEEP QUESTIONNAIRE</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_sleep</a></td></tr><tr><td>Social Support</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_social</a></td></tr><tr><td>Spiritual/Existential Status</td><td><a href="https://ageandbehavioraldata.github.io/2024/06/30/Survey_ADL/">Survey_status</a></td></tr></tbody></table><hr><p>In every study, there are common variables such as ID, study time, etc. We extract these to form a list of common variables.</p><h3 id="Common-Variables"><a href="#Common-Variables" class="headerlink" title="Common Variables"></a>Common Variables</h3><table><thead><tr><th>Variable Name</th><th><strong>Data type</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td>timepoint</td><td>int/numer</td><td></td></tr><tr><td>SCDI</td><td>int/numer</td><td></td></tr><tr><td>TP</td><td>int/numer</td><td></td></tr><tr><td>STUDY</td><td>string/word</td><td></td></tr><tr><td>CRID</td><td>int/numer</td><td></td></tr><tr><td>SCID</td><td>int/numer</td><td></td></tr><tr><td>DATA</td><td>data/time</td><td></td></tr></tbody></table><h3 id="Similarities-Among-Databases"><a href="#Similarities-Among-Databases" class="headerlink" title="Similarities Among Databases"></a><strong>Similarities Among Databases</strong></h3><ol><li><p>All databases use standardized tools like the MMSE (Mini-Mental State Examination) and Quality of Life assessments, ensuring consistency in the type of data collected. </p></li><li><p>The target population across all databases focuses on caregivers and care recipients, particularly those dealing with cognitive impairments and chronic conditions.</p></li><li><p>The data collection methods are consistent across the databases, employing both online and offline approaches, including in-person interviews and telephone surveys.</p></li></ol><hr><h3 id="Differences-Among-Databases"><a href="#Differences-Among-Databases" class="headerlink" title="Differences Among Databases"></a><strong>Differences Among Databases</strong></h3><ol><li><p>The scale and scope of each database vary significantly.</p></li><li><p>The data collection periods differ, which may affect the consistency of longitudinal data analysis.</p></li><li><p>The data collection methods differ, particularly for the VIDEO database, which relies on video-based data less common in the other databases.</p></li></ol>]]></content>
       
       
       
         <tags>
             
-            <tag> Surveys and Description </tag>
+            <tag> SurveysDescription </tag>
             
         </tags>
       
@@ -559,15 +540,13 @@
       <link href="/2024/07/07/welcomepage/"/>
       <url>/2024/07/07/welcomepage/</url>
       
-        <content type="html"><![CDATA[<p>Hello! 😀 👋</p><p>Welcome to our research project. </p><p>We are conducting a meta-analysis to integrate and standardize five fragmented psychosocial databases focusing on family caregivers of older adults with cognitive impairments like Mild Cognitive Impairment (MCI), Alzheimer’s disease, and Alzheimer’s Disease-Related dementia (ADRD). </p><p>We aim to improve the accessibility and utility of these datasets for researchers.📚</p><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>The Weill Cornell Medicine Center on Aging and Behavioral Research has accumulated over twenty years of data on psychosocial outcomes of caregivers and older adults with cognitive impairments, such as Mild Cognitive Impairment (MCI) and Alzheimer’s Disease or Related Dementias (ADRD). These datasets, derived from various studies involving technology-based interventions, offer a rich resource for understanding the complex dynamics of caregiving and cognitive decline. However, these datasets are fragmented across multiple studies, each with inconsistent coding practices and diverse populations, which diminishes their analytical power and efficacy for secondary analysis.</p><p>To address this need, we are creating a hierarchically structured, queryable database to integrate the fragmented datasets at Weill Cornell Medicine. A unified database will facilitate comprehensive analyses, allowing researchers to test hypotheses and detect subtle effects that are often obscured in isolated studies. This resource is particularly valuable for early career researchers at Weill Cornell Medicine, providing them with access to robust datasets that can support a wide range of research initiatives. Furthermore, a well-organized database can serve as a core resource that can be expanded to include additional datasets from external researchers, thereby enhancing collaborative efforts and broadening the scope of available data.</p><h3 id="Our-Work"><a href="#Our-Work" class="headerlink" title="Our Work"></a>Our Work</h3><p>Our project focuses on integrating several key datasets: Resources for Enhancing Alzheimer’s Caregiver Health, 1996-2001 (REACH 1), Resources for Enhancing Alzheimer’s Caregiver Health II (REACH 2), Resources for Enhancing Alzheimer’s Caregiver Health in the Community (Community REACH), Caring for the Caregiver Network (NINR), Grants for Early Medical/Surgical Specialists’ Transition to Aging Research (GEMSSTAR), and the Video Network Study Assessment (VIDEO). We organized and standardized the data tables, ensuring uniformity and compatibility across different studies. Extensive data wrangling was conducted to clean and transform the data into a unified format, addressing inconsistencies and integrating disparate data sources. A robust database architecture was designed to support efficient querying and data retrieval, enabling researchers to easily access and analyze the data. To facilitate broad access, we developed a web application that provides a user-friendly interface for querying the database.<br>Our project has made some progress in improving the accessibility and utility of psychosocial data on caregivers and older adults with cognitive impairments. By integrating these 5 key datasets (Due to inconsistencies and small sample sizes, the GEMSSTAR database was removed to ensure uniformity and prevent skewed results), we have standardized 1,277 variables related to caregiving and cognitive impairments. Additionally, we established a web interface to facilitate easy access and querying of the database for researchers. Our work supports future research on psychosocial outcomes, caregiving, and cognitive impairments by providing a comprehensive and accessible data resource. This integrated database represents a valuable advancement in the field, significantly enhancing research capabilities at Weill Cornell Medicine and beyond. It lays the groundwork for further studies aimed at improving the lives of caregivers and older adults with cognitive impairments, fostering a deeper understanding of the psychosocial dynamics involved. By enabling meta-analytic approaches, this resource can help identify subtle effects and interactions that might be missed in smaller, isolated studies, ultimately leading to more informed and effective interventions and policies.</p><h3 id="Connect-us"><a href="#Connect-us" class="headerlink" title="Connect us"></a>Connect us</h3><p>More info: <a href="mailto:sto4004@med.cornell.com">sto4004@med.cornell.com</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Hello! 😀 👋</p><p>Welcome to our research project!</p><p>We are conducting a meta-analysis to integrate and standardize five fragmented psychosocial databases focusing on family caregivers of older adults with cognitive impairments like Mild Cognitive Impairment (MCI), Alzheimer’s disease, and Alzheimer’s Disease-Related dementia (ADRD). </p><p>We aim to improve the accessibility and utility of these datasets for researchers.📚</p><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>The Weill Cornell Medicine Center on Aging and Behavioral Research has accumulated over twenty years of data on psychosocial outcomes of caregivers and older adults with cognitive impairments, such as Mild Cognitive Impairment (MCI) and Alzheimer’s Disease or Related Dementias (ADRD). These datasets, derived from various studies involving technology-based interventions, offer a rich resource for understanding the complex dynamics of caregiving and cognitive decline. However, these datasets are fragmented across multiple studies, each with inconsistent coding practices and diverse populations, which diminishes their analytical power and efficacy for secondary analysis.</p><p>To address this need, we are creating a hierarchically structured, queryable database to integrate the fragmented datasets at Weill Cornell Medicine. A unified database will facilitate comprehensive analyses, allowing researchers to test hypotheses and detect subtle effects that are often obscured in isolated studies. This resource is particularly valuable for early career researchers at Weill Cornell Medicine, providing them with access to robust datasets that can support a wide range of research initiatives. Furthermore, a well-organized database can serve as a core resource that can be expanded to include additional datasets from external researchers, thereby enhancing collaborative efforts and broadening the scope of available data.</p><h3 id="Our-Work"><a href="#Our-Work" class="headerlink" title="Our Work"></a>Our Work</h3><p>Our project focuses on integrating several key datasets: Resources for Enhancing Alzheimer’s Caregiver Health, 1996-2001 (REACH 1), Resources for Enhancing Alzheimer’s Caregiver Health II (REACH 2), Resources for Enhancing Alzheimer’s Caregiver Health in the Community (Community REACH), Caring for the Caregiver Network (NINR), Grants for Early Medical/Surgical Specialists’ Transition to Aging Research (GEMSSTAR), and the Video Network Study Assessment (VIDEO). We organized and standardized the data tables, ensuring uniformity and compatibility across different studies. Extensive data wrangling was conducted to clean and transform the data into a unified format, addressing inconsistencies and integrating disparate data sources. A robust database architecture was designed to support efficient querying and data retrieval, enabling researchers to easily access and analyze the data. To facilitate broad access, we developed a web application that provides a user-friendly interface for querying the database.<br>Our project has made some progress in improving the accessibility and utility of psychosocial data on caregivers and older adults with cognitive impairments. By integrating these 5 key datasets (Due to inconsistencies and small sample sizes, the GEMSSTAR database was removed to ensure uniformity and prevent skewed results), we have standardized 1,277 variables related to caregiving and cognitive impairments. Additionally, we established a web interface to facilitate easy access and querying of the database for researchers. Our work supports future research on psychosocial outcomes, caregiving, and cognitive impairments by providing a comprehensive and accessible data resource. This integrated database represents a valuable advancement in the field, significantly enhancing research capabilities at Weill Cornell Medicine and beyond. It lays the groundwork for further studies aimed at improving the lives of caregivers and older adults with cognitive impairments, fostering a deeper understanding of the psychosocial dynamics involved. By enabling meta-analytic approaches, this resource can help identify subtle effects and interactions that might be missed in smaller, isolated studies, ultimately leading to more informed and effective interventions and policies.</p><h3 id="Connect-us"><a href="#Connect-us" class="headerlink" title="Connect us"></a>Connect us</h3><p>More info: <a href="mailto:sto4004@med.cornell.com">sto4004@med.cornell.com</a></p>]]></content>
       
       
       
         <tags>
             
-            <tag> test </tag>
-            
-            <tag> test2 </tag>
+            <tag> research introduc </tag>
             
         </tags>
       
@@ -586,9 +565,7 @@
       
         <tags>
             
-            <tag> Anaconda </tag>
-            
-            <tag> Jupyter </tag>
+            <tag> publication </tag>
             
         </tags>
       
@@ -604,6 +581,12 @@
         <content type="html"><![CDATA[<p>This is details about survey_ADL</p><span id="more"></span><h3 id="Variable-in-ADL"><a href="#Variable-in-ADL" class="headerlink" title="Variable in ADL"></a>Variable in ADL</h3><table><thead><tr><th>Column Name</th><th>Column Name</th><th>Column Name</th><th>Column Name</th></tr></thead><tbody><tr><td>ADDI</td><td>ADL04A1</td><td>ADL09B_N3</td><td>ADL13M</td></tr><tr><td>adl_score</td><td>ADL04F</td><td>ADL09B_N4</td><td>ADL13T</td></tr><tr><td>ADL01</td><td>ADL04P</td><td>ADL09B1</td><td>ADL14</td></tr><tr><td>ADL01A</td><td>ADL05</td><td>ADL09B2</td><td>ADL14A</td></tr><tr><td>ADL01A1</td><td>ADL05A</td><td>ADL09B3</td><td>ADL14A1</td></tr><tr><td>ADL01F</td><td>ADL05A1</td><td>ADL09B4</td><td>ADL14C</td></tr><tr><td>ADL01P</td><td>ADL05F</td><td>ADL09B5</td><td>ADL14F</td></tr><tr><td>ADL02</td><td>ADL05P</td><td>ADL09B6</td><td>ADL14M</td></tr><tr><td>ADL02A</td><td>ADL06</td><td>ADL09B7</td><td>ADL14T</td></tr><tr><td>ADL02A1</td><td>ADL06A</td><td>ADL09B8</td><td>ADL15</td></tr><tr><td>ADL02F</td><td>ADL06A1</td><td>ADL09C</td><td>ADL15A</td></tr><tr><td>ADL03</td><td>ADL06F</td><td>ADL10</td><td>ADL15A1</td></tr><tr><td>ADL03A</td><td>ADL07</td><td>ADL10A</td><td>ADL15C</td></tr><tr><td>ADL03A1</td><td>ADL07A</td><td>ADL10A1</td><td>ADL15F</td></tr><tr><td>ADL03F</td><td>ADL07A1</td><td>ADL10C</td><td>ADL15M</td></tr><tr><td>ADL03P</td><td>ADL07F</td><td>ADL10F</td><td>ADL15T</td></tr><tr><td>ADL04</td><td>ADL08</td><td>ADL10IO</td><td>ADL16</td></tr><tr><td>ADL04A</td><td>ADL08A</td><td>ADL10M</td><td>ADL16A</td></tr><tr><td>WASH</td><td>ADL08A1</td><td>ADL10T</td><td>ADL16A1</td></tr><tr><td>ADL16C</td><td>ADL17B2</td><td>FEED</td><td></td></tr><tr><td>ADL16F</td><td>ADL17B3</td><td>HYGIN</td><td></td></tr><tr><td>ADL16M</td><td>ADL17B4</td><td>iadl_score</td><td></td></tr><tr><td>ADL16T</td><td>ADL17B5</td><td></td><td></td></tr><tr><td>ADL17</td><td>ADL17B6</td><td></td><td></td></tr><tr><td>ADL17A</td><td>ADL17B7</td><td></td><td></td></tr><tr><td>ADL17B_N1</td><td>ADL17C</td><td></td><td></td></tr><tr><td>ADL17B_N3</td><td>ADL18</td><td></td><td></td></tr><tr><td>ADL17B_N4</td><td>ADL18A</td><td></td><td></td></tr><tr><td>ADL17B1</td><td>DRSSB</td><td></td><td></td></tr><tr><td>ADL17B2</td><td>DRSSU</td><td></td><td></td></tr></tbody></table>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> ADL </tag>
+            
+        </tags>
       
     </entry>
     
@@ -633,15 +616,13 @@
       <link href="/2024/02/08/quickstart/"/>
       <url>/2024/02/08/quickstart/</url>
       
-        <content type="html"><![CDATA[<p>It is a quick start for users.</p><span id="more"></span><h3 id="Looking-for-data"><a href="#Looking-for-data" class="headerlink" title="Looking for data"></a>Looking for data</h3><ol><li><p>Use the global search function: in the search box in the sidebar, type whatever you want to search for.</p></li><li><p>Find data by variable: all surveys in sidebar - locate table - open link</p></li><li><p>Use excel to filter the data: open filter in the sidebar - download the excel version of our dataset - do a search based on excel (We have implemented filters in excel).</p></li></ol><h3 id="Reporting-data-errors"><a href="#Reporting-data-errors" class="headerlink" title="Reporting data errors"></a>Reporting data errors</h3><p>Just send email to us! Thanks</p>]]></content>
+        <content type="html"><![CDATA[<p>It is a quick start for users.</p><span id="more"></span><h3 id="Looking-for-data"><a href="#Looking-for-data" class="headerlink" title="Looking for data"></a>Looking for data</h3><ol><li><p><strong>Use the global search function:</strong></p><p> In the search box in the sidebar, type whatever you want to search for.</p></li><li><p><strong>Find data by variable:</strong> </p><p>“All surveys…” in sidebar - Locate table - Open link</p></li><li><p><strong>Use excel to filter the data:</strong> </p><p>Open filter in the sidebar - Download the excel version of our dataset - Search based on excel (We have implemented filters in excel ✍).</p></li></ol><h3 id="Reporting-data-errors"><a href="#Reporting-data-errors" class="headerlink" title="Reporting data errors"></a>Reporting data errors</h3><p>Just send email to us! Thanks</p>]]></content>
       
       
       
         <tags>
             
-            <tag> test </tag>
-            
-            <tag> test2 </tag>
+            <tag> help </tag>
             
         </tags>
       
